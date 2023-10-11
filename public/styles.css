@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: white;
+}
+.fa{
+    color: orange;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+h3{
+    text-align: center;
+    margin-top: 5px;
+}
+.m{
+   display: block;
+   margin: 2% 5% 0 5%;
+}
+.container{
+    display: flex;
+    flex: auto;
+    justify-content: space-around;
+}
+img{
+    width: 250px;
+    text-align: center;
+}
+.m1, .m2, .m3{
+    height:370px;
+    text-align: center;
+}
